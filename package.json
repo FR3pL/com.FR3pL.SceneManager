@@ -1,5 +1,5 @@
 {
-  "name": "com.FR3pL.SceneManager",
+  "name": "com.fr3pl.scenemanager",
   "version": "1.0.0",
   "displayName": "場景管理工具包",
   "description": "場景切換和退出遊戲",
